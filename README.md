@@ -7,7 +7,7 @@ This code is for generating QR codes with the parameters specified in the docker
 
 My GitHub Homepage QR:
 
-![alt text](https://github.com/nadzeyakuzm/is373qrcodegenerator/blob/master/nadzeyakuzm-github.png?raw=true)
+![alt text](https://github.com/nadzeyakuzmitch/is373qrcodegenerator/blob/master/nadzeyakuzm-github.png?raw=true)
 
 Before I have placed QR, there was this example:
 
