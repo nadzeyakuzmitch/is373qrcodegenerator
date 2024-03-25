@@ -1,4 +1,4 @@
-# Nadzeya Kuzmitch IS373 QR Code Generator
+# Nadzeya Kuzmitch IS219 QR Code Generator
 ## Basic description
 
 This code is for generating QR codes with the parameters specified in the docker-compose.yml or from the users input.
