@@ -9,9 +9,6 @@ My GitHub Homepage QR:
 
 ![alt text](https://github.com/nadzeyakuzmitch/is373qrcodegenerator/blob/master/nadzeyakuzm-github.png?raw=true)
 
-Before I have placed QR, there was this example:
-
-![alt text](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-08/220805-domestic-cat-mjf-1540-382ba2.jpg)
 
 ## Build the image and run
 
