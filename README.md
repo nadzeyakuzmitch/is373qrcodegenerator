@@ -9,9 +9,6 @@ My GitHub Homepage QR:
 
 ![alt text](https://github.com/nadzeyakuzmitch/is373qrcodegenerator/blob/master/nadzeyakuzm-github.png?raw=true)
 
+![Screenshot 2024-03-29 134652](https://github.com/nadzeyakuzmitch/is373qrcodegenerator/assets/91139114/f28e5436-da0d-4625-959d-7fce6dbd2bdc)
 
-## Build the image and run
 
-1. docker build -t nadzeyakuzm/is373qrcodegenerator . <- builds image called "nadzeyakuzm/is373qrcodegenerator" which we can later run in container
-   
-2. docker run -e QR_CODE_DEFAULT_URL=https://github.com/nadzeyakuzmitch/ -e QR_CODE_IMAGE_DIRECTORY=qrcodes -v $(pwd):/home/ nadzeyakuzm/is373qrcodegenerator <- run the image we have created with parameters you specify to generate QR code
